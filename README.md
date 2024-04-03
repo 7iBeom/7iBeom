@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @7iBeom
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Introduction
+컴퓨터공학과 학생
+
+## Links
+E-mail: gkdnld99@gmail.com
 
 <!---
 7iBeom/7iBeom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
