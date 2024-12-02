@@ -3,6 +3,7 @@
 
 ## Links
 E-mail: gkdnld99@gmail.com
+Blog: 7iBEOM.github.io
 
 <!---
 7iBeom/7iBeom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
