@@ -2,7 +2,7 @@
 컴퓨터공학과 학생
 
 ## Links
-E-mail: gkdnld99@gmail.com
+E-mail: gkdnld99@gmail.com</br>
 Blog: 7iBEOM.github.io
 
 <!---
